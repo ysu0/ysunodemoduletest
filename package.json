@@ -1,0 +1,22 @@
+{
+  "name": "ysunodemoduletest",
+  "version": "0.0.0",
+  "description": "\"A small library for node module test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no tet specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ysu0/ysunodemoduletest.git"
+  },
+  "keywords": [
+    "ysu"
+  ],
+  "author": "Ying Su <ysu@wdtinc.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ysu0/ysunodemoduletest/issues"
+  },
+  "homepage": "https://github.com/ysu0/ysunodemoduletest"
+}
